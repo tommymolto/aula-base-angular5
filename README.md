@@ -11,9 +11,9 @@ Alterar em app.routing.module.ts os caminhos para abrir as paginas
 Ex:
 { path: 'componente', component: InicioComponent}
 Adicionar o dados.service tanto no module como nos components como provider
- 
-
-
+subir o servidor json-serve e alterar no servico o endereco da api
+ng serve --host 0.0.0.0 --port 8080 --disable-host-check
+json-server animais.json --port 8081
 
 
 
