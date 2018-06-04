@@ -1,5 +1,25 @@
 # Testeaula
 
+Apos instalar o nodejs e npm
+npm -g install @angular/cli
+ng new projeto --with-routing true --routing true
+cd projeto
+ng generate component inicio
+ng generate component detalhes
+ng generate service dados
+Alterar em app.routing.module.ts os caminhos para abrir as paginas
+Ex:
+{ path: 'componente', component: InicioComponent}
+Adicionar o dados.service tanto no module como nos components como provider
+ 
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
