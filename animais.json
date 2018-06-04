@@ -1,0 +1,184 @@
+{
+  "animais": [
+    {
+      "id": "1",
+      "nome": "Pacato",
+      "tipo": "Gato",
+      "imagem": "http://2.bp.blogspot.com/-jJK7BBJQXg8/UHTJez6cR-I/AAAAAAAABBY/2TZAIkrVUGc/s1600/pacato.jpg",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "2",
+      "nome": "Gato Guerreiro",
+      "tipo": "Gato",
+      "imagem": "http://www.saudeanimal.com.br/wp-content/uploads/2016/03/pacato.gif",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "3",
+      "nome": "Snarf",
+      "tipo": "Gato",
+      "imagem": "https://vignette.wikia.nocookie.net/thundercats/images/b/b2/Snarf.jpg/revision/latest?cb=20111116221759&path-prefix=es",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "4",
+      "nome": "Bionicão",
+      "tipo": "Gato",
+      "imagem": "http://www.arteemminiaturas.com.br/webapps/imagefile/arquivos/est%C3%A1tua-do-dinamite-o-bionic%C3%A3o-em-resina-diorama-2.2-21777-01.jpg",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "5",
+      "nome": "ScoobyDoo",
+      "tipo": "Gato",
+      "imagem": "https://www.wbkidsgo.com/Portals/4/Images/Content/Characters/Scooby/characterArt-scooby-SD.png",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "6",
+      "nome": "Garfield",
+      "tipo": "Gato",
+      "imagem": "http://garfieldgo.com/images/GarfieldCurious.png",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "7",
+      "nome": "Oddie",
+      "tipo": "Gato",
+      "imagem": "https://t00.deviantart.net/TtaUtpwEQCdWTw8meqWgQjC5N4g=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/6143/th/pre/i/2004/08/6/4/oddie.jpg",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "8",
+      "nome": "Falcão 7",
+      "tipo": "Falcao",
+      "imagem": "https://orig00.deviantart.net/3858/f/2007/145/7/0/homem_passaro_by_madeinbrasil.jpg",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "id": "9",
+      "nome": "Tartaruga tuche",
+      "tipo": "Falcao",
+      "imagem": "https://http2.mlstatic.com/tartaruga-touche-desenho-animado-dublado-antigo-anos-80-D_NQ_NP_745468-MLB26566686347_122017-F.jpg",
+      "descricao": "ppp",
+      "telefone": "2345678",
+      "localizacao": {
+        "lat": "22",
+        "lon": "33"
+      }
+    },
+    {
+      "nome": "wer",
+      "tipo": "wer",
+      "descricao": "",
+      "telefone": "",
+      "lat": "0",
+      "lgn": "0",
+      "id": "ntUc_uC"
+    },
+    {
+      "nome": "wer",
+      "tipo": "wer",
+      "descricao": "",
+      "telefone": "",
+      "lat": "0",
+      "lgn": "0",
+      "id": "t62n4si"
+    },
+    {
+      "nome": "sdfsd",
+      "tipo": "sdfsdf",
+      "descricao": "",
+      "telefone": "",
+      "lat": 22,
+      "lgn": -32,
+      "id": "A14K5A5"
+    },
+    {
+      "nome": "sdfsd",
+      "tipo": "sdfsdf",
+      "descricao": "",
+      "telefone": "",
+      "lat": 22,
+      "lgn": -32,
+      "id": "7gQUx0X"
+    },
+    {
+      "nome": "sdfs",
+      "tipo": "sdfsdf",
+      "descricao": "",
+      "telefone": "",
+      "lat": 22,
+      "lgn": -32,
+      "id": "OHmXucf"
+    },
+    {
+      "nome": "",
+      "tipo": "",
+      "descricao": "",
+      "telefone": "",
+      "lat": 22,
+      "lgn": -32,
+      "id": "ZCPWuwQ"
+    },
+    {
+      "nome": "leta",
+      "tipo": "cachorro",
+      "descricao": "",
+      "telefone": "",
+      "lat": "0",
+      "lgn": "0",
+      "id": "uVSoCc2"
+    },
+    {
+      "nome": "spike",
+      "tipo": "cão",
+      "descricao": "",
+      "telefone": "",
+      "lat": -22.9058369,
+      "lgn": -43.1767214,
+      "id": "~~JkoOY"
+    }
+  ]
+}
