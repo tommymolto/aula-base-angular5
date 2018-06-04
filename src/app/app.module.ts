@@ -8,17 +8,21 @@ import { AppComponent } from './app.component';
 import { DadosService } from './dados.service';
 
 import { InicioComponent } from './inicio/inicio.component';
+import { CadastroanimalComponent } from './cadastroanimal/cadastroanimal.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    InicioComponent
+    InicioComponent,
+    CadastroanimalComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [ DadosService],
   bootstrap: [AppComponent]

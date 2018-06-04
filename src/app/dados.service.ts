@@ -11,5 +11,8 @@ export class DadosService {
   pegaAnimais(){
       return this.http.get('http://fe2018noite-fronendinfnet.c9users.io:8081/animais');
   }
+  salvaAnimal(x){
+      return this.http.post('http://fe2018noite-fronendinfnet.c9users.io:8081/animais', x);
+  }
 
 }
